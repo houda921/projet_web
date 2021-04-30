@@ -1,0 +1,41 @@
+#info {
+    color: pink;
+}
+
+#inscript {
+    color: purple;
+}
+
+#pret {
+    color: rgb(56, 35, 95);
+}
+
+.comp {
+    color: yellow
+}
+
+section {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 229, 155);
+}
+
+.formulaire {
+    position: relative;
+    margin: auto;
+    width: 300px;
+}
+
+.l1 {
+    display: inline-block;
+    width: 150px;
+    line-height: 30px;
+}
+
+.butt {
+    width: 360px;
+    height: 25px;
+}
+
+.image {
+    float: right;
+}
